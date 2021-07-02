@@ -32,7 +32,7 @@ twitter_username: N/A
 github_username:  inceid
 
 # Build settings
-theme: moonwalk
+remote_theme: moonwalk
 plugins:
   - jekyll-feed
 
